@@ -10,7 +10,7 @@ class RecentLinkView(APIView):
 
     def get(self, request):
         output = {
-            "slackUsername": "Bernadette Chukwuedo",
+            "slackUsername": "Berny",
             "backend": True,
             "age": 17,
             "bio": "I am a backend developer, I love technology and also love getting to know people"
